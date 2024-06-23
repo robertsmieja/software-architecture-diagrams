@@ -8,3 +8,4 @@ Goals:
 - Leverage remote compute, so no local hardware requires
 - Extensible, so new frameworks/tools/libraries/languages can be introduced easily
 - Cost-effective, so when it's not being used, the cost is as close to 0 as possible
+- Rapid Prototyping, so it still "feels local" despite being all remote
